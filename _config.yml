@@ -1,8 +1,8 @@
 # Site settings
-title: Robert Day - Unity Developer
+title: Robert Day	
 email: robertday7@hotmail.com
 url: https://RobertBDay.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My name is Robert Day and I am a Unity developer."
 keywords: "your keywords, separated by commas"
 skills: "C# - Unity3D"
 meta_author: Day Robert
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Social Media
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
