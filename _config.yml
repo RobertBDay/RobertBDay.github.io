@@ -1,11 +1,11 @@
 # Site settings
-title: Robert Day	
+title: Unity Developer	
 email: robertday7@hotmail.com
 url: https://RobertBDay.github.io
 description: "My name is Robert Day and I am a Unity developer."
 keywords: "your keywords, separated by commas"
 skills: "C# - Unity3D"
-meta_author: Day Robert
+meta_author: Robert Day
 
 # Google webmaster tools
 google_verify:
